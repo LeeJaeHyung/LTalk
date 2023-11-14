@@ -34,16 +34,24 @@
 
 
 <로그인 화면>
+
+
 ![LTalk Login](https://github.com/LeeJaeHyung/LTalk/assets/69907023/0b08f482-9075-4aff-aef1-b29707b264be)
 
 
 <친구목록>
+
+
 ![friend](https://github.com/LeeJaeHyung/LTalk/assets/69907023/c02a1085-c996-40ef-a4a4-f02af8baf08a)
 
 <채팅목록>
+
+
 ![chatList](https://github.com/LeeJaeHyung/LTalk/assets/69907023/1b3cc47f-d088-4e44-9563-df13ee94d17f)
 
 <채팅방>
+
+
 ![chat](https://github.com/LeeJaeHyung/LTalk/assets/69907023/54bba3c0-4c4f-4d2b-ba2a-04d1ad166da3)
 
 
