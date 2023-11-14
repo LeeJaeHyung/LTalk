@@ -54,6 +54,11 @@
 
 ![chat](https://github.com/LeeJaeHyung/LTalk/assets/69907023/54bba3c0-4c4f-4d2b-ba2a-04d1ad166da3)
 
+-----------------------------------------------------------------------------------------------------
+<서버>
+
+
+![LTalk Server](https://github.com/LeeJaeHyung/LTalk/assets/69907023/f707f616-a70c-4d3f-a210-a99e693ee171)
 
 
 [현제 구현 되어있는 기능]
