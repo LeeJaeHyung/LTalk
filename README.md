@@ -31,5 +31,7 @@
            DataBase          OracleDB 21c 
            DataBase Tool     SQLDeveloper 22.2.0.173.2018
            
-                           
-    
+
+
+
+![LTalk Login](https://github.com/LeeJaeHyung/LTalk/assets/69907023/0b08f482-9075-4aff-aef1-b29707b264be)
